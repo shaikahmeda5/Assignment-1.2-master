@@ -1,1 +1,2 @@
-# Assignment-1.2-master
+# AcadGild_Assingnmets
+Java Assignments 
